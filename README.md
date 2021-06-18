@@ -6,3 +6,5 @@ landing page
 ![alt text](https://github.com/JahongirIzzatullaev/sass-beyond/blob/main/img/img-for-readme.png?raw=true)
 
 [Demo Home page Two](https://jahongirizzatullaev.github.io/sass-beyond/index-2.html)
+
+![alt text](https://github.com/JahongirIzzatullaev/sass-beyond/blob/main/img/img-for-readme-1.png?raw=true)
